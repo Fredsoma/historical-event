@@ -6,7 +6,6 @@ import Timeline from "./components/Timeline";
 import WhyItMatters from "./components/WhyItMatters";
 import Gallery from "./components/Gallery";
 import Sources from "./components/Sources";
-import Team from "./components/Team";
 import Footer from "./components/Footer";
 import "./App.css";
 
@@ -42,7 +41,6 @@ function App() {
         <WhyItMatters />
         <Gallery />
         <Sources />
-        <Team />
       </main>
       <Footer />
     </div>

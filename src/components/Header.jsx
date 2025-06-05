@@ -46,9 +46,6 @@ const Header = () => {
             <li>
               <a href="#sources">Sources</a>
             </li>
-            <li>
-              <a href="#team">Team</a>
-            </li>
           </ul>
         </nav>
       </div>
