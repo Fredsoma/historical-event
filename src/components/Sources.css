@@ -1,0 +1,20 @@
+.sources ol {
+  margin-top: var(--space-md);
+  padding-left: var(--space-lg);
+}
+
+.sources li {
+  margin-bottom: var(--space-sm);
+  font-size: 1rem;
+  color: var(--color-text-light);
+  line-height: 1.4;
+}
+
+.sources a {
+  font-weight: 500;
+  color: var(--color-primary);
+}
+
+.sources a:hover {
+  color: var(--color-secondary);
+}
